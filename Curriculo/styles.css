@@ -1,0 +1,26 @@
+body{
+    margin: 0px;
+    margin-top: ;
+}
+.nome{
+    width:100%;
+    height: auto;
+    background-color: rgb(31, 82, 5);
+    text-align: center;
+   
+}
+.soft{
+    width:50%;
+    height: auto;
+    background-color: rgb(0, 255, 132);
+    text-align: left;
+    position: absolute;
+}
+.hard{
+    width:50%;
+    height: auto;
+    background-color: rgb(255, 196, 0);
+    text-align: left;
+    position: absolute;
+    right: 0px;
+}
