@@ -1,0 +1,35 @@
+body{
+    margin: -22px;
+    display: inline-flex;
+}
+h1{
+    padding: -15px;
+}
+img    {
+    border-radius: 50%;
+}
+.nome{
+    width:70vw;
+    height: auto;
+    background-color: rgb(2, 2, 2);
+    text-align: left;
+    padding: 30px;
+    color:azure;
+    size: 0px;
+   
+}
+.soft{
+    width:30vw;
+    height: auto;
+    background-color: rgb(11, 125, 70);
+    text-align: center;
+    
+}
+.hard{
+    width:50%;
+    height: auto;
+    background-color: rgb(255, 196, 0);
+    text-align: left;
+    position: absolute;
+    right: 0px;
+}
