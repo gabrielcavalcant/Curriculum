@@ -20,7 +20,7 @@ img    {
     background-color: rgb(2, 2, 2);
     text-align: left;
     padding: 30px;
-    color:azure;
+    color: #33AF74;
     size: 0px;
    
 }
@@ -37,5 +37,14 @@ img    {
     background-color: #33AF74;
     text-align: center;
     position: right;
-    
+    color: black;
+    font-size: 30px;
+}
+.lol{
+    width:70vw;
+    height: auto;
+    background-color: black;
+    text-align: center;
+    color:#33AF74 ;
+    font-size: 30px;
 }
