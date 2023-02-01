@@ -1,9 +1,15 @@
 body{
     margin: -22px;
     display: inline-flex;
+    
 }
 h1{
     padding: -15px;
+}
+hr{
+    background-color: #33AF74;
+    border: none;
+    height: 1px;
 }
 img    {
     border-radius: 50%;
@@ -21,15 +27,15 @@ img    {
 .soft{
     width:30vw;
     height: auto;
-    background-color: rgb(11, 125, 70);
+    background-color: #33AF74;
     text-align: center;
     
 }
-.hard{
-    width:50%;
+.carta{
+    width:30vw;
     height: auto;
-    background-color: rgb(255, 196, 0);
-    text-align: left;
-    position: absolute;
-    right: 0px;
+    background-color: #33AF74;
+    text-align: center;
+    position: right;
+    
 }
