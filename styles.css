@@ -22,6 +22,7 @@ img    {
     padding: 30px;
     color: #33AF74;
     size: 0px;
+    gap: 100px;
    
 }
 .soft{
@@ -29,6 +30,7 @@ img    {
     height: auto;
     background-color: #33AF74;
     text-align: center;
+    gap: 100px;
     
 }
 .carta{
