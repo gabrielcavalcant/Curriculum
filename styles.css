@@ -16,7 +16,7 @@ img    {
 }
 .nome{
     width:70vw;
-    height: auto120vh;
+
     background-color: rgb(2, 2, 2);
     text-align: left;
     padding: 30px;
@@ -27,7 +27,7 @@ img    {
 }
 .soft{
     width:30vw;
-    height: 120vh;
+    height: 110vh;
     background-color: #33AF74;
     text-align: center;
     
