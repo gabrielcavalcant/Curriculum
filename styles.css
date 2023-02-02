@@ -16,21 +16,21 @@ img    {
 }
 .nome{
     width:70vw;
-    height: auto;
+    height: auto120vh;
     background-color: rgb(2, 2, 2);
     text-align: left;
     padding: 30px;
     color: #33AF74;
     size: 0px;
-    gap: 100px;
+    
    
 }
 .soft{
     width:30vw;
-    height: auto;
+    height: 120vh;
     background-color: #33AF74;
     text-align: center;
-    gap: 100px;
+    
     
 }
 .carta{
