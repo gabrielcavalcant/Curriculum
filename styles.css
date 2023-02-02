@@ -18,6 +18,7 @@ img    {
     width:70vw;
 
     background-color: rgb(2, 2, 2);
+    height: auto;
     text-align: left;
     padding: 30px;
     color: #33AF74;
@@ -27,7 +28,7 @@ img    {
 }
 .soft{
     width:30vw;
-    height: 110vh;
+    height: auto;
     background-color: #33AF74;
     text-align: center;
     
